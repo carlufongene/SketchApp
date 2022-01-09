@@ -15,6 +15,7 @@ public class StringParser {
     public StringParser(String words) {
         //split by spaces
         line = words.split(" ");
+        // Hi
     }
 
     public void parser(Sketch sketch) {
